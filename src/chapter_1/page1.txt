@@ -1,3 +1,5 @@
 
 
-this is java
+This is java.
+Java is cool .
+James Bond is always with us .
