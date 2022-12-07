@@ -7,3 +7,4 @@ commit--> push
 and
 
 remote
+pull/update
